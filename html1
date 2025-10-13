@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>les patates</title>
+	<link rel="stylesheet" href="cacass.css">
+</head>
+<body>
+	<nav>
+<a href="page1.html" class='active'>Home</a>
+<a href="page2.html">ma patate personnelle</a>
+<a href="page3code.html">jeux</a>
+</nav>
+<h1 class="megatitre">Les differents type de Patate</h1>
+<section>
+<p1>charlotte</p1>
+    <div id="centerImage">
+    <a href="https://www.jardiner-malin.fr/fiche/pomme-de-terre-charlotte.html"><img id="charlotte" src="charlotte.jpg"></a>
+    </div>
+</section>
+<section>
+<p1>Ratte</p1>
+	<div id="centerImage">
+	<a href="https://www.marmiton.org/recettes/recette_pommes-de-terre-rattes-sautees-a-l-ail-laurier-et-thym_342657.aspx"><img id="Ratte" src="Ratte.jpg"></a>
+	</div>
+  </section>
+  <section>
+<p1>Norabio</p1>
+	<div id="centerImage">
+	<a href="https://www.rebiffe.fr/legumes-frais/120-pomme-de-terre-chair-ferme.html"><img id="norabio" src="grosse.jpg" width="200px"></a>
+	</div>
+  </section>
+ <table border="5">
+	<tr>
+		<td>frites</td>
+		<td>patates sautés</td>
+		<td>purée</td>
+	</tr>
+	<tr>
+		<td>setirf<img id=image src="frites.jpg"></td>
+		<td>sétaus setatap<img id=image src="patates.jpg"></td>
+		<td>eérup<img id=image src="purée.jpg"></a></td>
+	</tr>
+</table>
+<section id="blackfond">
+<section id="colonne1">
+    <h1 class="main-title">Abel gremillon</h1>
+    </section>
+    <section id="competences">
+      <h2 class="petitTitre">Mes compétences</h2>
+      <div>
+        <h4 class="progress-title">frites</h4>
+        <div class="progress">
+          <div class="progress-bar progress-80"></div>
+        </div>
+        <div class="progress-label">surpuissant</div>
+      <h4 class="progress-title">patates sautés</h4>
+      <div class="progress">
+        <div class="progress-bar progress-60"></div>
+      </div>
+      <div class="progress-label">divin</div>
+    <h4 class="progress-title">patates au four</h4>
+        <div class="progress">
+          <div class="progress-bar progress-100"></div>
+        </div>
+        <div class="progress-label">inimaginable</div>
+    </section>
+	<section>
+	<button class="bouton1" onclick="window.location.href='https://www.nutrimuscle.com/products/farine-de-patate-douce-blanche-biologique?variant=48752696525129';">
+  Patate pas chère !!!!!!!!
+</button>
+</section>
+	</section>
+</body>
+</html>
