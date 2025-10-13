@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>codepatate</title>
+	<script type='text/javascript' src="Monscript.js"></script>
+		<style>
+body {
+			background-image: url(securite.jpg);
+			background-size: cover;
+			color: white; 
+			background-attachment : fixed;
+			min-height: 100%;
+			display: flex;
+			flex-direction: row;
+			margin: 0;
+		}
+
+		label {
+			font-size: 20px;
+			color: white;  
+		}
+
+		input {
+			font-size: 18px;
+		}
+		nav {
+      background-color: #333;
+      overflow: hidden;
+    }
+
+
+	nav a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+    }
+    .active {
+      background-color: #04AA6D;
+    }
+#code {
+background-size: cover;
+color:white ;
+background-image: url(securité.jfif);
+}
+</style> 
+<body>
+	<nav>
+<a href="page1.html">Home</a>
+<a href="page2.html">ma patate personnelle</a>
+<a href="page3code.html" class='active'>jeux</a>
+</nav>
+<form onsubmit="return false;">
+    <label for="nom">NOM</label>
+    <input type="text" id="nom" />
+    <label for="mdp">Mot de passe</label>
+    <input type="password" id="mdp" name="mot de passe" />
+    <button type="button" onclick="verifiesittestbon()">Valider</button>
+</form>
+<span id='code' onclick="javascript : popup()">roi des patates cliquez ici!!</span>
+<span id='code2' onclick="javascript : popup2()">voici votre nom !!</span>
+</body>
+</html>
