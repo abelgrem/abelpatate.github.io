@@ -1,0 +1,16 @@
+function popup(){
+	alert ('le code est : potatus2025')
+}
+function popup2(){
+	alert ('l identifiant est : abel')
+}
+function verifiesittestbon() {
+    var identifient = document.getElementById('nom').value;
+    var motdepasse = document.getElementById('mdp').value;
+    if (identifient === "abel" && motdepasse === "potatus2025") {
+        alert("!!! bienvenue !!!");
+        window.location.href = "page3.html";
+    } else {
+        alert("!!!! intru detecté !!!!");
+    }
+}
