@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>jeuxdepatate</title>
+	<link rel="stylesheet" href="cacass3.css">
+	</head>
+	<body>
+	<section>
+	<button class="bouton2" onclick="window.location.href='page1.html';">return</button>
+	</section>
+	<h1>subway surfers</h1>
+    <section class="Image">
+    <a href="https://poki.com/fr/g/subway-surfers?campaign=14722924758&adgroup=128802592538&extensionid=&targetid=kwd-38162773484&location=1006094&matchtype=e&network=g&device=c&devicemodel=&creative=583089994513&keyword=subway%20surfers&placement=&target=&gad_source=1&gclid=Cj0KCQiA1Km7BhC9ARIsAFZfEIs1R24tOaHCwqkdTEGi-vnvDLiLtsH4SV0qhUTVR635Jmz6hFAN4PgaAnjDEALw_wcB"><img id="subway" src="unnamed.png" width='300px'></a>
+    </section>
+	<h1>amogus</h1>
+    <section class="Image">
+    <a href="https://playhop.com/fr/app/232534"><img id="amogus" src="amogus.png" width='500px'></a>
+    </section>
+	<section>
+	<button onclick="window.location.href='secretpage.html';">click!!</button>
+	</section>
+	</body>
+	</html>
