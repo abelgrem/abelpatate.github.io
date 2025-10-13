@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>secretpage</title>
+	<style>
+	body {
+		background-image :url(secret.jpg);
+		}
+
+		</style>
+</head>
+<body>
+<section>
+	<button class="bouton2" onclick="window.location.href='page1.html';">return</button>
+	</section>
+   <section class="Imagesecret">
+   <p>profite bien de ce jeu banger</p>
+    <a href="https://www.cokojeux.com/monsieur-patate-en-ligne/play/"><img id="amogus" src="secret1.jfif" width='500px'></a>
+	</section>
