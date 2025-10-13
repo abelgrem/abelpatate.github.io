@@ -1,0 +1,72 @@
+body {
+	display: flex;
+    flex-direction: row;
+    margin: 0;
+    min-height: 100%;
+	background-image: url(fondpatate.jpeg);
+	background-attachment : fixed;
+}
+nav {
+      background-color: #333;
+      overflow: hidden;
+    }
+
+
+	nav a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+    }
+    .active {
+      background-color: #04AA6D;
+    }
+section {
+	color: purple;
+}
+h1 {
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    padding: 10px 0;
+	font-size: 30px;
+}
+#colonne1 {
+    background-color: #85adad;
+    color: white;
+    width: 300px;
+}
+
+.progress {
+    background-color: #a3c2c2;
+}
+
+.progress-title {
+    margin-bottom: 0;
+	color: white;
+}
+
+.progress-bar {
+    background-color: #3d5c5c;
+    height: 16px;
+}
+
+.progress-60 {
+    width: 60%;
+}
+
+.progress-80 {
+    width: 80%;
+}
+
+.progress-100 {
+    width: 100%;
+}
+
+.progress-label {
+    text-align: end;
+	color: white;
+}
