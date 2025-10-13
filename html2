@@ -1,0 +1,43 @@
+<!doctype html>
+<html leng=fr>
+<head>
+	<meta charset="utf-8">
+	<title>plusbellepatatedumonde</title>
+	<link rel="stylesheet" href="cacass2.css">
+</head>
+<body>
+	<nav>
+<nav>    <a href="page1.html">Home</a>
+    <a href="page2.html" class="active">ma patate personnelle</a>
+    <a href="page3code.html">jeux</a>
+</nav>
+<section>
+<h1>ma patate a été elue plus belle patate intergénérationelle !<h1>
+</section>
+<div class="centerImage">
+    <a href="https://www.epicgardening.com/11-gigantic-veggies/"><img id="plusgrossepatate" src="plusbellepatate.jpg" width="500px"></a>
+    </div>
+<section id="colonne1">
+    </section>
+    <section id="competences">
+      <h2 class="petitTitre">gigantus potatus:</h2>
+      <div>
+        <h4 class="progress-title">poids</h4>
+        <div class="progress">
+          <div class="progress-bar progress-80"></div>
+        </div>
+        <div class="progress-label">164 kg</div>
+      <h4 class="progress-title">taille</h4>
+      <div class="progress">
+        <div class="progress-bar progress-60"></div>
+      </div>
+      <div class="progress-label">1.5m</div>
+    <h4 class="progress-title">calories</h4>
+        <div class="progress">
+          <div class="progress-bar progress-100"></div>
+        </div>
+        <div class="progress-label">99965 K</div>
+    </section>
+	</nav>
+</body>
+</html>
