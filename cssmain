@@ -1,0 +1,110 @@
+body {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    min-height: 100%;
+	background-image: url(patate.jpg);
+	background-attachment : fixed;
+}
+
+section {
+    padding: 8px;
+}
+
+html {
+    height: 100%;
+}
+
+#colonne1 {
+    background-color: #85adad;
+    color: white;
+    width: 300px;
+}
+
+.progress {
+    background-color: #a3c2c2;
+}
+
+.progress-title {
+    margin-bottom: 0;
+	color: white;
+}
+
+.progress-bar {
+    background-color: purple;
+    height: 16px;
+}
+.progress-60 {
+    width: 60%;
+}
+
+.progress-80 {
+    width: 80%;
+}
+
+.progress-100 {
+    width: 100%;
+}
+
+.progress-label {
+    text-align: end;
+	color: white;
+}
+
+    body {
+        flex-direction: column;
+    }
+.bouton1 {
+	padding: 80px 50px;
+	background-image: url(patatebouton.jpg);
+	background-size: cover;
+}
+.main-title {
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+    text-decoration: underline;
+    background-color: #85adad;
+
+}
+.petitTitre {
+    background-color: #75a3a3;
+}
+.megatitre {
+	font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+    text-decoration: underline;
+}
+p1 {
+	font-size: 30px;
+	color: white;
+}
+nav {
+      background-color: #333;
+      overflow: hidden;
+    }
+
+
+	nav a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+    }
+    .active {
+      background-color: #04AA6D;
+    }
+#blackfond {
+	background-color: black;
+}
+table {
+            width: 100%;
+            background-color: white;
+        }
+#image {
+	 width: 100px;
+}
